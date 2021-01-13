@@ -9,10 +9,10 @@
 
 /*===== Colores =====*/
 :root{
-    --first-color: #fcaeeb;
-    --white-color: #FAFAFF;
-    --dark-color: #2A3B47;
-    --text-color: #697477;
+    --first-color: hsl(332, 100%, 84%);
+    --white-color: #ffffff;
+    --dark-color: #969696;
+    --text-color: #000000;
 }
 
 /*===== Fuente y tipografia =====*/
